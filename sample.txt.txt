@@ -9,3 +9,5 @@ git rebase
 git checkout
 
 git merge
+
+git branch
