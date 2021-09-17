@@ -13,3 +13,5 @@ git merge
 git branch
 
 git rebase
+
+git branch -D
