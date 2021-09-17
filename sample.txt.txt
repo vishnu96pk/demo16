@@ -11,3 +11,5 @@ git checkout
 git merge
 
 git branch
+
+git rebase
